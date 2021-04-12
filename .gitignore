@@ -1,0 +1,3 @@
+*.scsi
+.idea
+__pycache__
